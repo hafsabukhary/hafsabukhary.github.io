@@ -1,14 +1,11 @@
 title: Hafsa Habib # your name (or website title) here
 logo: "/images/hafsa_logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Masters in Data Science and Machine Learning
+ Python| Data Science & Machine Learning| Educator
   <br>
-  A few years ago, I started Machine Learning and Deep Learning Nanodegrees from Coursera, and have quickly become an expert in 
-  Neural Networks and Computer Vision.
+ 
   <br>
-  Areas of interest include <br>
-  Digital Image Processing, Speech Processing, Computer Vision, Signal Analysis, Algorithms, Chatbots, Voice Recognition, NLP and Object Detection
-  <br><br>
+ 
   <a href="https://www.linkedin.com/in/hafsa-bukhary-aa5376118/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
