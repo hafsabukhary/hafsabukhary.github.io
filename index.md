@@ -2,28 +2,23 @@
 
 ---
 
-### Category Name 1 
+### Deep Learning
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Cross lingual text Independent Speaker Verification](/pdf/sample_presentation.pdf)
+Research and development based project aims to find an improved solution towards robust authentication systems based on voice. Speaker verification is done independent of gender, age or language of the speaker. It performed better than other state of the art models on Urdu speakers as well.
+<img src="images/SV_demo.png?raw=true"/>
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+---
+
+### Education
+[Problem solving and Programming](https://www.youtube.com/watch?v=aYHd8eCRiFE&list=PL9QU3510xvC0WYjNA7AdfDlveoWwWxUao)
+<img src="images/teaching demo 1.png?raw=true"/>
+
 
 ---
 
@@ -31,5 +26,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
