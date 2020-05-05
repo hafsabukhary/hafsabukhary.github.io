@@ -5,9 +5,10 @@
 ### Deep Learning
 
 [Cross lingual text Independent Speaker Verification](/pdf/sample_presentation.pdf)
+
 <details><summary>Research and development based project </summary>
   
- <p>Research and development based project aims to find an improved solution towards robust authentication systems based on voice. Speaker verification is done independent of gender, age or language of the speaker. It performed better than other state of the art models on Urdu speakers as well.<p>
+ <p>Research and development based project aims to find an improved solution towards robust authentication systems based on voice. Speaker verification is done independent of gender, age or language of the speaker. It performed better than other state of the art models on Urdu speakers as well.</p>
 
 </details>
 <img src="images/SV_demo.png?raw=true"/>
